@@ -117,3 +117,9 @@ enable_progressbar: true
 enable_tooltips: false
 enable_project_categories: true
 enable_navbar_social: false
+
+# -----------------------------------------------------------------------------
+# Third-party libraries (required by al-folio build)
+# -----------------------------------------------------------------------------
+third_party_libraries: {}
+
