@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: "Yucheng Xing"
+title: Yucheng Xing
 first_name: Yucheng
 last_name: Xing
 description: >
@@ -14,8 +14,8 @@ lang: en
 icon: ⚛️
 
 # 正确的网址设置
-url: "https://sbu-ycx.github.io"
-baseurl: ""       # 主页必须留空
+url: https://sbu-ycx.github.io
+baseurl:       # 主页必须留空
 
 back_to_top: true
 
@@ -36,14 +36,14 @@ max_width: 930px
 # -----------------------------------------------------------------------------
 
 author:
-  name: "Yucheng Xing"
-  role: "Ph.D. Candidate"
-  affiliation: "Department of Electrical and Computer Engineering, Stony Brook University"
-  email: "yucheng.xing@stonybrook.edu"
-  website: "https://yuchengxing.me"
-  github: "sbu-ycx"
-  linkedin: ""        # 如果有可填
-  scholar: ""         # Google Scholar ID
+  name: Yucheng Xing
+  role: Ph.D. Candidate
+  affiliation: Department of Electrical and Computer Engineering, Stony Brook University
+  email: yucheng.xing@stonybrook.edu
+  website: https://yuchengxing.me
+  github: SBU-YCX
+  linkedin:         # 如果有可填
+  scholar:         # Google Scholar ID
 
 # -----------------------------------------------------------------------------
 # Theme colors
@@ -55,8 +55,8 @@ theme_color: "#26734d"     # 主色调：深科研绿
 # -----------------------------------------------------------------------------
 # Blog / News (可忽略)
 # -----------------------------------------------------------------------------
-blog_name: "News"
-blog_description: "Recent updates and publications"
+blog_name: News
+blog_description: Recent updates and publications
 
 pagination:
   enabled: true
